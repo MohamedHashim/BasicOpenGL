@@ -27,5 +27,8 @@
     <ClCompile Include="draw_circles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="colored_hexagon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
