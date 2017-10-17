@@ -3,8 +3,8 @@
 
 void myinit()
 {
-	glClearColor(1.0, 1.0, 1.0, 1.0);			//set the background color to white
-	glColor3f(0.0, 0.0, 0.0); 					//set the foreground color to black
+	glClearColor(1.0, .5, .2, .8);			//set the background color to white
+	glColor3f(0.2, 0.1, 0.8); 					//set the foreground color to black
 	glPointSize(3.0);							//set the point size to 3 X 3 pixels
 
 												//set up a world window to screen transformation
@@ -39,7 +39,7 @@ void drawSierpinski()
 	//halfway between the initial point and the randomly
 	//selected vertex.
 
-	for (k = 0; k < 5000; k++)
+	for (k = 0; k < 1000000; k++)
 	{
 		j = rand() % 3;		//pick a vertex at random
 
