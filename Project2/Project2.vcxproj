@@ -134,6 +134,7 @@
     <ClCompile Include="mouse_painting.cpp" />
     <ClCompile Include="shaders.cpp" />
     <ClCompile Include="sierpinski_triangle.cpp" />
+    <ClCompile Include="Transformations.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
