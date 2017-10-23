@@ -51,3 +51,13 @@ This repo contains the projects of the Computer Graphics Course.
 ### 5- [Drawing The Sierpinski Triangle](https://github.com/MohamedHashim/BasicOpenGL/blob/master/Project2/sierpinski_triangle.cpp)
 
 <a><img src="https://github.com/MohamedHashim/BasicOpenGL/blob/master/sierpinski%20triangle.PNG" title="Drawing The Sierpinski Triangle"/></a>
+
+
+
+
+
+
+
+### 6- [Triangle Transformations](https://github.com/MohamedHashim/BasicOpenGL/blob/master/Project2/Transformations.cpp)
+
+<a><a>                       </a><img src="https://raw.githubusercontent.com/MohamedHashim/BasicOpenGL/db8e971c6476a4e0424b06ae2a3b2fe2f268440f/transformations.gif" title="Triangle Transformations"/></a>
